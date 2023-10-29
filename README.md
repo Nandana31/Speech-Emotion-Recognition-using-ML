@@ -1,1 +1,1 @@
-This project is shows the recognition of the emotion from a speech using ML. The datasets provided was taken from the Ravdess datasets. One can use different set of datasets to train the model.
+This project is shows the recognition of the emotion from a speech using ML. The datasets provided was taken from the Ravdess datasets. One can use different set of datasets to train the model. The accuracy of the model can be increased by increasing the epoch time to its maximum. Here we have used low epoch rate and hence the low accuracy rate
